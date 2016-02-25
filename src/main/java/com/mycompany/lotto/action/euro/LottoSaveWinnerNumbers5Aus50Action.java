@@ -16,12 +16,12 @@ import org.openqa.selenium.support.ui.WebDriverWait;
  *
  * @author saj
  */
-public class LottoSaveWinnerNumbersAction implements Action {
+public class LottoSaveWinnerNumbers5Aus50Action implements Action {
 
     private WebDriver driver;
     private Lotto5aus50 lotto;
 
-    public LottoSaveWinnerNumbersAction(Lotto5aus50 lotto, WebDriver driver) {
+    public LottoSaveWinnerNumbers5Aus50Action(Lotto5aus50 lotto, WebDriver driver) {
         this.driver = driver;
         this.lotto = lotto;
     }
@@ -44,7 +44,7 @@ public class LottoSaveWinnerNumbersAction implements Action {
             try {
                 Thread.sleep(200);
             } catch (InterruptedException ex) {
-                Logger.getLogger(LottoSaveWinnerNumbersAction.class.getName()).log(Level.SEVERE, null, ex);
+                Logger.getLogger(LottoSaveWinnerNumbers5Aus50Action.class.getName()).log(Level.SEVERE, null, ex);
             }
             new WebDriverWait(driver, 10).
                     until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[@data-groups='ej, game']/div/div/select")));

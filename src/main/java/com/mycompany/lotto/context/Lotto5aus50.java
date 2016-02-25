@@ -45,8 +45,6 @@ public class Lotto5aus50 {
             temp = temp.with(next(FRIDAY));
         }
 
-//        localDates.stream().forEach(System.out::println);
-
         return this;
     }
 
