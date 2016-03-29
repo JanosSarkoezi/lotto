@@ -13,6 +13,7 @@ import java.util.stream.Collectors;
 import com.mycompany.lotto.context.Lotto6Aus49;
 import org.junit.After;
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 
@@ -23,11 +24,11 @@ import org.openqa.selenium.firefox.FirefoxDriver;
  *
  * @author saj
  */
-public class Lotto {
+public class LottoTest {
 
     WebDriver driver;
 
-    public Lotto() {
+    public LottoTest() {
     }
 
     @Before
@@ -46,6 +47,7 @@ public class Lotto {
     }
 
     @Test
+    @Ignore
     public void testLotto5Aus50() {
         Lotto5aus50 lotto = new Lotto5aus50().
                 from(LocalDate.of(2015, 10, 02)).
@@ -65,8 +67,8 @@ public class Lotto {
     @Test
     public void testLotto6Aus49() {
         Lotto6Aus49 lotto = new Lotto6Aus49().
-                from(LocalDate.of(2016, 1, 2)).
-                to(LocalDate.of(2016, 3, 9)).generate();
+                from(LocalDate.of(2016, 3, 26)).
+                to(LocalDate.of(2016, 6, 1)).generate();
 
         Macro macro = new Macro().name("6 aus 49");
 
