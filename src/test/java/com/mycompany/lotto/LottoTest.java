@@ -8,6 +8,7 @@ import com.mycompany.lotto.context.Lotto5aus50;
 
 import java.time.LocalDate;
 import java.util.List;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 
 import com.mycompany.lotto.context.Lotto6Aus49;
@@ -67,7 +68,7 @@ public class LottoTest {
     @Test
     public void testLotto6Aus49() {
         Lotto6Aus49 lotto = new Lotto6Aus49().
-                from(LocalDate.of(2016, 3, 26)).
+                from(LocalDate.of(2016, 3, 25)).
                 to(LocalDate.of(2016, 6, 1)).generate();
 
         Macro macro = new Macro().name("6 aus 49");
@@ -114,15 +115,26 @@ public class LottoTest {
                     map((number) -> lotto.getAdditionalWinnerNumbers(localDate).stream().filter(n -> n.equals(number)).count()).
                     reduce(count2, (a, b) -> a + b);
 
-            System.out.println("Treffer [" + localDate + "]: "
-                    + lotto.getWinnerNumbers(localDate) + "(" + count1 + ") "
+            System.out.println("Treffer [" + localDate + "]: ["
+                    + join(lotto.getWinnerNumbers(localDate)) + "] (" + count1 + ") "
                     + lotto.getAdditionalWinnerNumbers(localDate) + "(" + count2 + ")");
         });
     }
 
     private String join(List<Integer> values) {
         return values.stream().
-                map(Object::toString).
+                map(new NumberMapper()).
                 collect(Collectors.joining(", "));
+    }
+
+    private class NumberMapper implements Function<Integer, String> {
+
+        @Override
+        public String apply(Integer value) {
+            if(value > 9) {
+                return value.toString();
+            }
+            return "0" + value.toString();
+        }
     }
 }
