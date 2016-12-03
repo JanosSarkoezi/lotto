@@ -5,17 +5,14 @@
  */
 package com.mycompany.lotto.context;
 
-import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.util.*;
 
 import static java.time.DayOfWeek.SATURDAY;
 import static java.time.DayOfWeek.WEDNESDAY;
 import static java.time.temporal.TemporalAdjusters.next;
-import static java.time.DayOfWeek.FRIDAY;
 
 /**
- *
  * @author saj
  */
 public class Lotto6Aus49 {
@@ -26,9 +23,13 @@ public class Lotto6Aus49 {
     private final List<LocalDate> localDates = new ArrayList<>();
     private final List<Integer> numbers = new ArrayList<>();
     private final List<Integer> additionalNumbers = new ArrayList<>();
+    private final List<Integer> game77 = new ArrayList<>();
+    private final List<Integer> gluecksspirale = new ArrayList<>();
 
-    private final Map<LocalDate, List<Integer>> winnerMap = new HashMap<>();
-    private final Map<LocalDate, List<Integer>> additionalWinnerMap = new HashMap<>();
+    private final Map<LocalDate, List<Integer>> date2WinnerNumbers = new HashMap<>();
+    private final Map<LocalDate, List<Integer>> date2AdditionalWinnerNumbers = new HashMap<>();
+    private final Map<LocalDate, List<Integer>> date2Game77 = new HashMap<>();
+    private final Map<LocalDate, List<Integer>> date2Gluecksspirale = new HashMap<>();
 
     public LocalDate getFrom() {
         return from;
@@ -39,7 +40,7 @@ public class Lotto6Aus49 {
         LocalDate wednesday = temp.with(next(WEDNESDAY));
         LocalDate saturday = temp.with(next(SATURDAY));
         boolean nextDayIsWednesday = wednesday.isBefore(saturday);
-        if(nextDayIsWednesday) {
+        if (nextDayIsWednesday) {
             temp = wednesday;
         } else {
             temp = saturday;
@@ -50,11 +51,13 @@ public class Lotto6Aus49 {
                 break;
             }
 
-            winnerMap.put(temp, new ArrayList<>());
-            additionalWinnerMap.put(temp, new ArrayList<>());
+            date2WinnerNumbers.put(temp, new ArrayList<>());
+            date2AdditionalWinnerNumbers.put(temp, new ArrayList<>());
+            date2Game77.put(temp, new ArrayList<>());
+            date2Gluecksspirale.put(temp, new ArrayList<>());
             localDates.add(temp);
 
-            if(nextDayIsWednesday) {
+            if (nextDayIsWednesday) {
                 temp = temp.with(next(SATURDAY));
                 nextDayIsWednesday = false;
             } else {
@@ -82,6 +85,18 @@ public class Lotto6Aus49 {
         return this;
     }
 
+    public Lotto6Aus49 addGame77(Integer number) {
+        this.game77.clear();
+        this.game77.addAll(Arrays.asList(number));
+        return this;
+    }
+
+    public Lotto6Aus49 addGluecksspirale(Integer number) {
+        this.gluecksspirale.clear();
+        this.gluecksspirale.addAll(Arrays.asList(number));
+        return this;
+    }
+
     public Lotto6Aus49 from(LocalDate from) {
         this.from = from;
         return this;
@@ -100,6 +115,14 @@ public class Lotto6Aus49 {
         return numbers;
     }
 
+    public List<Integer> getGame77() {
+        return game77;
+    }
+
+    public List<Integer> getGluecksspirale() {
+        return gluecksspirale;
+    }
+
     public List<Integer> getAdditionalNumbers() {
         return additionalNumbers;
     }
@@ -109,10 +132,10 @@ public class Lotto6Aus49 {
     }
 
     public List<Integer> getWinnerNumbers(LocalDate localDate) {
-        return winnerMap.get(localDate);
+        return date2WinnerNumbers.get(localDate);
     }
 
     public List<Integer> getAdditionalWinnerNumbers(LocalDate localDate) {
-        return additionalWinnerMap.get(localDate);
+        return date2AdditionalWinnerNumbers.get(localDate);
     }
 }

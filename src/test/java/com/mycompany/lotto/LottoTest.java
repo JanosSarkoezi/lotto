@@ -77,8 +77,8 @@ public class LottoTest {
 
         macro.perform();
 
-        evaluate6(lotto.add6(4, 13, 32, 37, 39, 42).addSuperNumber(1));
-        evaluate6(lotto.add6(7, 9, 10, 13, 14, 37).addSuperNumber(1));
+        evaluate6(lotto.add6(4, 13, 32, 37, 39, 42).addSuperNumber(1).addGame77(12334).addGluecksspirale(12312));
+        evaluate6(lotto.add6(7, 9, 10, 13, 14, 37).addSuperNumber(1).addGluecksspirale(213312).addGluecksspirale(21323142));
     }
 
     private void evaluate5(Lotto5aus50 lotto) {
@@ -95,8 +95,8 @@ public class LottoTest {
                     map((number) -> lotto.getAdditionalWinnerNumbers(localDate).stream().filter(n -> n.equals(number)).count()).
                     reduce(count2, (a, b) -> a + b);
 
-            System.out.println("Treffer [" + localDate + "]: "
-                    + lotto.getWinnerNumbers(localDate) + "(" + count1 + ") "
+            System.out.println("Treffer [" + localDate + "]: ["
+                    + join(lotto.getWinnerNumbers(localDate)) + "] (" + count1 + ") "
                     + lotto.getAdditionalWinnerNumbers(localDate) + "(" + count2 + ")");
         });
     }
