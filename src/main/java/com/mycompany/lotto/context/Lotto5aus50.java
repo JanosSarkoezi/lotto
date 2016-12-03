@@ -1,14 +1,15 @@
 package com.mycompany.lotto.context;
 
 import java.time.DayOfWeek;
-import static java.time.DayOfWeek.FRIDAY;
 import java.time.LocalDate;
-import static java.time.temporal.TemporalAdjusters.next;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
+import static java.time.DayOfWeek.FRIDAY;
+import static java.time.temporal.TemporalAdjusters.next;
 
 /**
  *
