@@ -12,21 +12,23 @@ import static java.time.DayOfWeek.FRIDAY;
 import static java.time.temporal.TemporalAdjusters.next;
 
 /**
- *
  * @author saj
  */
 public class Lotto5aus50 {
 
-    private LocalDate to;
-    private LocalDate from;
-
     private final List<LocalDate> localDates = new ArrayList<>();
     private final List<Integer> numbers = new ArrayList<>();
     private final List<Integer> additionalNumbers = new ArrayList<>();
-
     private final Map<LocalDate, List<Integer>> winnerMap = new HashMap<>();
     private final Map<LocalDate, List<Integer>> additionalWinnerMap = new HashMap<>();
+    private LocalDate to;
+    private LocalDate from;
 
+    /**
+     * Diese Methode initializiert interne Daten.
+     *
+     * @return <code>this</code> für das Fluent-Pattern.
+     */
     public Lotto5aus50 generate() {
         LocalDate temp = from;
         while (temp.isBefore(to) || temp.isEqual(to)) {
@@ -35,15 +37,13 @@ public class Lotto5aus50 {
                 continue;
             }
 
-            if (temp.isAfter(LocalDate.now()) || temp.isEqual(LocalDate.now())) {
-                break;
+            if (temp.isBefore(LocalDate.now())) {
+                winnerMap.put(temp, new ArrayList<>());
+                additionalWinnerMap.put(temp, new ArrayList<>());
+                localDates.add(temp);
+
+                temp = temp.with(next(FRIDAY));
             }
-
-            winnerMap.put(temp, new ArrayList<>());
-            additionalWinnerMap.put(temp, new ArrayList<>());
-            localDates.add(temp);
-
-            temp = temp.with(next(FRIDAY));
         }
 
         return this;

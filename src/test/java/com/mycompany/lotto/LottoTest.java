@@ -48,6 +48,24 @@ public class LottoTest {
     }
 
     @Test
+    public void testLotto6Aus49() {
+        Lotto6Aus49 lotto = new Lotto6Aus49().
+                from(LocalDate.of(2017, 5, 6)).
+                to(LocalDate.of(2017, 5, 24)).generate();
+
+        Macro macro = new Macro().name("6 aus 49");
+
+        macro.addAction(new LottoSaveWinnerNumbers6Aus49Action(lotto, driver));
+
+        macro.perform();
+
+        evaluate6(lotto.add6(2, 11, 15, 19, 37, 40).addSuperNumber(1));
+        evaluate6(lotto.add6(4, 12, 15, 29, 38, 47).addSuperNumber(1));
+        evaluate6(lotto.add6(6, 23, 26, 30, 38, 48).addSuperNumber(1));
+    }
+
+    @Test
+    @Ignore
     public void testLotto5Aus50() {
         Lotto5aus50 lotto = new Lotto5aus50().
                 from(LocalDate.of(2016, 8, 12)).
@@ -62,23 +80,6 @@ public class LottoTest {
 
         evaluate5(lotto.add5(2, 6, 13, 24, 42).add2(2, 10));
         evaluate5(lotto.add5(2, 30, 38, 46, 48).add2(4, 7));
-    }
-
-    @Test
-    @Ignore
-    public void testLotto6Aus49() {
-        Lotto6Aus49 lotto = new Lotto6Aus49().
-                from(LocalDate.of(2016, 4, 30)).
-                to(LocalDate.of(2016, 7, 6)).generate();
-
-        Macro macro = new Macro().name("6 aus 49");
-
-        macro.addAction(new LottoSaveWinnerNumbers6Aus49Action(lotto, driver));
-
-        macro.perform();
-
-        evaluate6(lotto.add6(4, 13, 32, 37, 39, 42).addSuperNumber(1).addGame77(12334).addGluecksspirale(12312));
-        evaluate6(lotto.add6(7, 9, 10, 13, 14, 37).addSuperNumber(1).addGluecksspirale(213312).addGluecksspirale(21323142));
     }
 
     private void evaluate5(Lotto5aus50 lotto) {

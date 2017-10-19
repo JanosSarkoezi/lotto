@@ -39,6 +39,11 @@ public class Lotto6Aus49 {
         return from;
     }
 
+    /**
+     * Diese Methode initializiert interne Daten.
+     *
+     * @return <code>this</code> für das Fluent-Pattern.
+     */
     public Lotto6Aus49 generate() {
         LocalDate temp = from;
         LocalDate wednesday = temp.with(next(WEDNESDAY));
