@@ -1,0 +1,141 @@
+<div id="gewinnzahlen">
+   <h2 id="lottozahlen-archiv">Archiv mit Ziehungen aus dem Jahr 1955</h2>
+   <div class="zahlensuche_rahmen_br">
+      <div class="zahlensuche_hinweis01">#</div>
+      <div class="zahlensuche_hinweis02">Datum</div>
+      <div class="zahlensuche_hinweis03">Gewinnzahlen</div>
+      <div class="zahlensuche_hinweis04">SZ</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">1</div>
+      <time class="zahlensuche_datum" datetime="1955-10-09">09.10.1955</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">2</div>
+      <time class="zahlensuche_datum" datetime="1955-10-16">16.10.1955</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">49</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">3</div>
+      <time class="zahlensuche_datum" datetime="1955-10-23">23.10.1955</time>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">4</div>
+      <time class="zahlensuche_datum" datetime="1955-10-30">30.10.1955</time>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">5</div>
+      <time class="zahlensuche_datum" datetime="1955-11-06">06.11.1955</time>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zahl">49</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">6</div>
+      <time class="zahlensuche_datum" datetime="1955-11-13">13.11.1955</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">7</div>
+      <time class="zahlensuche_datum" datetime="1955-11-20">20.11.1955</time>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">8</div>
+      <time class="zahlensuche_datum" datetime="1955-11-27">27.11.1955</time>
+      <div class="zahlensuche_zahl">9</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">9</div>
+      <time class="zahlensuche_datum" datetime="1955-12-04">04.12.1955</time>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">10</div>
+      <time class="zahlensuche_datum" datetime="1955-12-11">11.12.1955</time>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">11</div>
+      <time class="zahlensuche_datum" datetime="1955-12-18">18.12.1955</time>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">12</div>
+      <time class="zahlensuche_datum" datetime="1955-12-25">25.12.1955</time>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">9</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+</div>

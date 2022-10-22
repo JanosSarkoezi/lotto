@@ -1,0 +1,1164 @@
+<div id="gewinnzahlen">
+   <h2 id="lottozahlen-archiv">Archiv mit Ziehungen aus dem Jahr 2011</h2>
+   <div class="zahlensuche_rahmen_br">
+      <div class="zahlensuche_hinweis01">#</div>
+      <div class="zahlensuche_hinweis02">Datum</div>
+      <div class="zahlensuche_hinweis03">Gewinnzahlen</div>
+      <div class="zahlensuche_hinweis04">SZ</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">1</div>
+      <time class="zahlensuche_datum" datetime="2011-01-01">01.01.2011</time>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zz">1</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">2</div>
+      <time class="zahlensuche_datum" datetime="2011-01-05">05.01.2011</time>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zahl">49</div>
+      <div class="zahlensuche_zz">7</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">3</div>
+      <time class="zahlensuche_datum" datetime="2011-01-08">08.01.2011</time>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">4</div>
+      <time class="zahlensuche_datum" datetime="2011-01-12">12.01.2011</time>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zz">2</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">5</div>
+      <time class="zahlensuche_datum" datetime="2011-01-15">15.01.2011</time>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zz">3</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">6</div>
+      <time class="zahlensuche_datum" datetime="2011-01-19">19.01.2011</time>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zz">1</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">7</div>
+      <time class="zahlensuche_datum" datetime="2011-01-22">22.01.2011</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">7</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">8</div>
+      <time class="zahlensuche_datum" datetime="2011-01-26">26.01.2011</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zz">4</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">9</div>
+      <time class="zahlensuche_datum" datetime="2011-01-29">29.01.2011</time>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zahl">45</div>
+      <div class="zahlensuche_zz">7</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">10</div>
+      <time class="zahlensuche_datum" datetime="2011-02-02">02.02.2011</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">15</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zz">4</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">11</div>
+      <time class="zahlensuche_datum" datetime="2011-02-05">05.02.2011</time>
+      <div class="zahlensuche_zahl">9</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zz">8</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">12</div>
+      <time class="zahlensuche_datum" datetime="2011-02-09">09.02.2011</time>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zz">3</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">13</div>
+      <time class="zahlensuche_datum" datetime="2011-02-12">12.02.2011</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zz">4</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">14</div>
+      <time class="zahlensuche_datum" datetime="2011-02-16">16.02.2011</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zz">0</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">15</div>
+      <time class="zahlensuche_datum" datetime="2011-02-19">19.02.2011</time>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">16</div>
+      <time class="zahlensuche_datum" datetime="2011-02-23">23.02.2011</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zahl">40</div>
+      <div class="zahlensuche_zz">1</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">17</div>
+      <time class="zahlensuche_datum" datetime="2011-02-26">26.02.2011</time>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zahl">49</div>
+      <div class="zahlensuche_zz">6</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">18</div>
+      <time class="zahlensuche_datum" datetime="2011-03-02">02.03.2011</time>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">9</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zahl">48</div>
+      <div class="zahlensuche_zz">0</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">19</div>
+      <time class="zahlensuche_datum" datetime="2011-03-05">05.03.2011</time>
+      <div class="zahlensuche_zahl">7</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">15</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">20</div>
+      <time class="zahlensuche_datum" datetime="2011-03-09">09.03.2011</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zahl">48</div>
+      <div class="zahlensuche_zz">9</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">21</div>
+      <time class="zahlensuche_datum" datetime="2011-03-12">12.03.2011</time>
+      <div class="zahlensuche_zahl">9</div>
+      <div class="zahlensuche_zahl">15</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">43</div>
+      <div class="zahlensuche_zz">9</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">22</div>
+      <time class="zahlensuche_datum" datetime="2011-03-16">16.03.2011</time>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zahl">48</div>
+      <div class="zahlensuche_zz">4</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">23</div>
+      <time class="zahlensuche_datum" datetime="2011-03-19">19.03.2011</time>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zz">6</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">24</div>
+      <time class="zahlensuche_datum" datetime="2011-03-23">23.03.2011</time>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">40</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zz">4</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">25</div>
+      <time class="zahlensuche_datum" datetime="2011-03-26">26.03.2011</time>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zz">7</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">26</div>
+      <time class="zahlensuche_datum" datetime="2011-03-30">30.03.2011</time>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zz">7</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">27</div>
+      <time class="zahlensuche_datum" datetime="2011-04-02">02.04.2011</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">28</div>
+      <time class="zahlensuche_datum" datetime="2011-04-06">06.04.2011</time>
+      <div class="zahlensuche_zahl">9</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zz">0</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">29</div>
+      <time class="zahlensuche_datum" datetime="2011-04-09">09.04.2011</time>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz">8</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">30</div>
+      <time class="zahlensuche_datum" datetime="2011-04-13">13.04.2011</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">9</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">31</div>
+      <time class="zahlensuche_datum" datetime="2011-04-16">16.04.2011</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zahl">49</div>
+      <div class="zahlensuche_zz">3</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">32</div>
+      <time class="zahlensuche_datum" datetime="2011-04-20">20.04.2011</time>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zahl">40</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zz">9</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">33</div>
+      <time class="zahlensuche_datum" datetime="2011-04-23">23.04.2011</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zz">2</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">34</div>
+      <time class="zahlensuche_datum" datetime="2011-04-27">27.04.2011</time>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zz">7</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">35</div>
+      <time class="zahlensuche_datum" datetime="2011-04-30">30.04.2011</time>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zz">0</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">36</div>
+      <time class="zahlensuche_datum" datetime="2011-05-04">04.05.2011</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">40</div>
+      <div class="zahlensuche_zz">1</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">37</div>
+      <time class="zahlensuche_datum" datetime="2011-05-07">07.05.2011</time>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zz">2</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">38</div>
+      <time class="zahlensuche_datum" datetime="2011-05-11">11.05.2011</time>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">39</div>
+      <time class="zahlensuche_datum" datetime="2011-05-14">14.05.2011</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">9</div>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zz">3</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">40</div>
+      <time class="zahlensuche_datum" datetime="2011-05-18">18.05.2011</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zz">1</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">41</div>
+      <time class="zahlensuche_datum" datetime="2011-05-21">21.05.2011</time>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">45</div>
+      <div class="zahlensuche_zahl">49</div>
+      <div class="zahlensuche_zz">0</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">42</div>
+      <time class="zahlensuche_datum" datetime="2011-05-25">25.05.2011</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zz">6</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">43</div>
+      <time class="zahlensuche_datum" datetime="2011-05-28">28.05.2011</time>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zz">6</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">44</div>
+      <time class="zahlensuche_datum" datetime="2011-06-01">01.06.2011</time>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zz">9</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">45</div>
+      <time class="zahlensuche_datum" datetime="2011-06-04">04.06.2011</time>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">46</div>
+      <time class="zahlensuche_datum" datetime="2011-06-08">08.06.2011</time>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">15</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">49</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">47</div>
+      <time class="zahlensuche_datum" datetime="2011-06-11">11.06.2011</time>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zz">9</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">48</div>
+      <time class="zahlensuche_datum" datetime="2011-06-15">15.06.2011</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zz">3</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">49</div>
+      <time class="zahlensuche_datum" datetime="2011-06-18">18.06.2011</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zz">6</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">50</div>
+      <time class="zahlensuche_datum" datetime="2011-06-22">22.06.2011</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zz">4</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">51</div>
+      <time class="zahlensuche_datum" datetime="2011-06-25">25.06.2011</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zz">1</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">52</div>
+      <time class="zahlensuche_datum" datetime="2011-06-29">29.06.2011</time>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">45</div>
+      <div class="zahlensuche_zz">7</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">53</div>
+      <time class="zahlensuche_datum" datetime="2011-07-02">02.07.2011</time>
+      <div class="zahlensuche_zahl">7</div>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">40</div>
+      <div class="zahlensuche_zz">8</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">54</div>
+      <time class="zahlensuche_datum" datetime="2011-07-06">06.07.2011</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zz">2</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">55</div>
+      <time class="zahlensuche_datum" datetime="2011-07-09">09.07.2011</time>
+      <div class="zahlensuche_zahl">9</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">45</div>
+      <div class="zahlensuche_zz">2</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">56</div>
+      <time class="zahlensuche_datum" datetime="2011-07-13">13.07.2011</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz">1</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">57</div>
+      <time class="zahlensuche_datum" datetime="2011-07-16">16.07.2011</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">15</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zz">6</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">58</div>
+      <time class="zahlensuche_datum" datetime="2011-07-20">20.07.2011</time>
+      <div class="zahlensuche_zahl">7</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zahl">49</div>
+      <div class="zahlensuche_zz">3</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">59</div>
+      <time class="zahlensuche_datum" datetime="2011-07-23">23.07.2011</time>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zz">0</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">60</div>
+      <time class="zahlensuche_datum" datetime="2011-07-27">27.07.2011</time>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zz">8</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">61</div>
+      <time class="zahlensuche_datum" datetime="2011-07-30">30.07.2011</time>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">40</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">62</div>
+      <time class="zahlensuche_datum" datetime="2011-08-03">03.08.2011</time>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">40</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zahl">43</div>
+      <div class="zahlensuche_zz">6</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">63</div>
+      <time class="zahlensuche_datum" datetime="2011-08-06">06.08.2011</time>
+      <div class="zahlensuche_zahl">9</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zahl">49</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">64</div>
+      <time class="zahlensuche_datum" datetime="2011-08-10">10.08.2011</time>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">65</div>
+      <time class="zahlensuche_datum" datetime="2011-08-13">13.08.2011</time>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zz">2</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">66</div>
+      <time class="zahlensuche_datum" datetime="2011-08-17">17.08.2011</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zz">6</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">67</div>
+      <time class="zahlensuche_datum" datetime="2011-08-20">20.08.2011</time>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">7</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zz">6</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">68</div>
+      <time class="zahlensuche_datum" datetime="2011-08-24">24.08.2011</time>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zz">6</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">69</div>
+      <time class="zahlensuche_datum" datetime="2011-08-27">27.08.2011</time>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">40</div>
+      <div class="zahlensuche_zahl">43</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zahl">49</div>
+      <div class="zahlensuche_zz">0</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">70</div>
+      <time class="zahlensuche_datum" datetime="2011-08-31">31.08.2011</time>
+      <div class="zahlensuche_zahl">15</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz">7</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">71</div>
+      <time class="zahlensuche_datum" datetime="2011-09-03">03.09.2011</time>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zz">2</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">72</div>
+      <time class="zahlensuche_datum" datetime="2011-09-07">07.09.2011</time>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zz">1</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">73</div>
+      <time class="zahlensuche_datum" datetime="2011-09-10">10.09.2011</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">9</div>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">43</div>
+      <div class="zahlensuche_zz">0</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">74</div>
+      <time class="zahlensuche_datum" datetime="2011-09-14">14.09.2011</time>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zz">7</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">75</div>
+      <time class="zahlensuche_datum" datetime="2011-09-17">17.09.2011</time>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zahl">49</div>
+      <div class="zahlensuche_zz">1</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">76</div>
+      <time class="zahlensuche_datum" datetime="2011-09-21">21.09.2011</time>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">77</div>
+      <time class="zahlensuche_datum" datetime="2011-09-24">24.09.2011</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zz">3</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">78</div>
+      <time class="zahlensuche_datum" datetime="2011-09-28">28.09.2011</time>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">43</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">79</div>
+      <time class="zahlensuche_datum" datetime="2011-10-01">01.10.2011</time>
+      <div class="zahlensuche_zahl">9</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz">1</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">80</div>
+      <time class="zahlensuche_datum" datetime="2011-10-05">05.10.2011</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">15</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">43</div>
+      <div class="zahlensuche_zahl">45</div>
+      <div class="zahlensuche_zz">8</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">81</div>
+      <time class="zahlensuche_datum" datetime="2011-10-08">08.10.2011</time>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz">0</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">82</div>
+      <time class="zahlensuche_datum" datetime="2011-10-12">12.10.2011</time>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">40</div>
+      <div class="zahlensuche_zahl">43</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zz">7</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">83</div>
+      <time class="zahlensuche_datum" datetime="2011-10-15">15.10.2011</time>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">84</div>
+      <time class="zahlensuche_datum" datetime="2011-10-19">19.10.2011</time>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">15</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zz">4</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">85</div>
+      <time class="zahlensuche_datum" datetime="2011-10-22">22.10.2011</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">7</div>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">86</div>
+      <time class="zahlensuche_datum" datetime="2011-10-26">26.10.2011</time>
+      <div class="zahlensuche_zahl">15</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">87</div>
+      <time class="zahlensuche_datum" datetime="2011-10-29">29.10.2011</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zz">7</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">88</div>
+      <time class="zahlensuche_datum" datetime="2011-11-02">02.11.2011</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">40</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zahl">43</div>
+      <div class="zahlensuche_zz">4</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">89</div>
+      <time class="zahlensuche_datum" datetime="2011-11-05">05.11.2011</time>
+      <div class="zahlensuche_zahl">7</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zahl">43</div>
+      <div class="zahlensuche_zz">0</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">90</div>
+      <time class="zahlensuche_datum" datetime="2011-11-09">09.11.2011</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">48</div>
+      <div class="zahlensuche_zz">7</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">91</div>
+      <time class="zahlensuche_datum" datetime="2011-11-12">12.11.2011</time>
+      <div class="zahlensuche_zahl">7</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">15</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zz">9</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">92</div>
+      <time class="zahlensuche_datum" datetime="2011-11-16">16.11.2011</time>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zahl">49</div>
+      <div class="zahlensuche_zz">4</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">93</div>
+      <time class="zahlensuche_datum" datetime="2011-11-19">19.11.2011</time>
+      <div class="zahlensuche_zahl">9</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">40</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">94</div>
+      <time class="zahlensuche_datum" datetime="2011-11-23">23.11.2011</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zz">4</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">95</div>
+      <time class="zahlensuche_datum" datetime="2011-11-26">26.11.2011</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">49</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">96</div>
+      <time class="zahlensuche_datum" datetime="2011-11-30">30.11.2011</time>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zz">1</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">97</div>
+      <time class="zahlensuche_datum" datetime="2011-12-03">03.12.2011</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz">7</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">98</div>
+      <time class="zahlensuche_datum" datetime="2011-12-07">07.12.2011</time>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zz">7</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">99</div>
+      <time class="zahlensuche_datum" datetime="2011-12-10">10.12.2011</time>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zz">7</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">100</div>
+      <time class="zahlensuche_datum" datetime="2011-12-14">14.12.2011</time>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zz">9</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">101</div>
+      <time class="zahlensuche_datum" datetime="2011-12-17">17.12.2011</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz">6</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">102</div>
+      <time class="zahlensuche_datum" datetime="2011-12-21">21.12.2011</time>
+      <div class="zahlensuche_zahl">15</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zahl">43</div>
+      <div class="zahlensuche_zz">1</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">103</div>
+      <time class="zahlensuche_datum" datetime="2011-12-24">24.12.2011</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zz">9</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">104</div>
+      <time class="zahlensuche_datum" datetime="2011-12-28">28.12.2011</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">105</div>
+      <time class="zahlensuche_datum" datetime="2011-12-31">31.12.2011</time>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zz">1</div>
+   </div>
+</div>

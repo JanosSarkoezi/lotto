@@ -1,0 +1,581 @@
+<div id="gewinnzahlen">
+   <h2 id="lottozahlen-archiv">Archiv mit Ziehungen aus dem Jahr 1982</h2>
+   <div class="zahlensuche_rahmen_br">
+      <div class="zahlensuche_hinweis01">#</div>
+      <div class="zahlensuche_hinweis02">Datum</div>
+      <div class="zahlensuche_hinweis03">Gewinnzahlen</div>
+      <div class="zahlensuche_hinweis04">SZ</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">1</div>
+      <time class="zahlensuche_datum" datetime="1982-01-02">02.01.1982</time>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">15</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">2</div>
+      <time class="zahlensuche_datum" datetime="1982-01-09">09.01.1982</time>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">3</div>
+      <time class="zahlensuche_datum" datetime="1982-01-16">16.01.1982</time>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">48</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">4</div>
+      <time class="zahlensuche_datum" datetime="1982-01-23">23.01.1982</time>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zahl">45</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">5</div>
+      <time class="zahlensuche_datum" datetime="1982-01-30">30.01.1982</time>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">6</div>
+      <time class="zahlensuche_datum" datetime="1982-02-06">06.02.1982</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">7</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">40</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">7</div>
+      <time class="zahlensuche_datum" datetime="1982-02-13">13.02.1982</time>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">8</div>
+      <time class="zahlensuche_datum" datetime="1982-02-20">20.02.1982</time>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">49</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">9</div>
+      <time class="zahlensuche_datum" datetime="1982-02-27">27.02.1982</time>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">10</div>
+      <time class="zahlensuche_datum" datetime="1982-03-06">06.03.1982</time>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">11</div>
+      <time class="zahlensuche_datum" datetime="1982-03-13">13.03.1982</time>
+      <div class="zahlensuche_zahl">9</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zahl">48</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">12</div>
+      <time class="zahlensuche_datum" datetime="1982-03-20">20.03.1982</time>
+      <div class="zahlensuche_zahl">7</div>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">40</div>
+      <div class="zahlensuche_zahl">48</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">13</div>
+      <time class="zahlensuche_datum" datetime="1982-03-27">27.03.1982</time>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">14</div>
+      <time class="zahlensuche_datum" datetime="1982-04-03">03.04.1982</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zahl">48</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">15</div>
+      <time class="zahlensuche_datum" datetime="1982-04-10">10.04.1982</time>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">16</div>
+      <time class="zahlensuche_datum" datetime="1982-04-17">17.04.1982</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">17</div>
+      <time class="zahlensuche_datum" datetime="1982-04-24">24.04.1982</time>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">18</div>
+      <time class="zahlensuche_datum" datetime="1982-05-01">01.05.1982</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">40</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">19</div>
+      <time class="zahlensuche_datum" datetime="1982-05-08">08.05.1982</time>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">20</div>
+      <time class="zahlensuche_datum" datetime="1982-05-15">15.05.1982</time>
+      <div class="zahlensuche_zahl">7</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">21</div>
+      <time class="zahlensuche_datum" datetime="1982-05-22">22.05.1982</time>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">22</div>
+      <time class="zahlensuche_datum" datetime="1982-05-29">29.05.1982</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">23</div>
+      <time class="zahlensuche_datum" datetime="1982-06-05">05.06.1982</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">24</div>
+      <time class="zahlensuche_datum" datetime="1982-06-12">12.06.1982</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">25</div>
+      <time class="zahlensuche_datum" datetime="1982-06-19">19.06.1982</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">48</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">26</div>
+      <time class="zahlensuche_datum" datetime="1982-06-26">26.06.1982</time>
+      <div class="zahlensuche_zahl">7</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">27</div>
+      <time class="zahlensuche_datum" datetime="1982-07-03">03.07.1982</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">7</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">28</div>
+      <time class="zahlensuche_datum" datetime="1982-07-10">10.07.1982</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">29</div>
+      <time class="zahlensuche_datum" datetime="1982-07-17">17.07.1982</time>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">30</div>
+      <time class="zahlensuche_datum" datetime="1982-07-24">24.07.1982</time>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">31</div>
+      <time class="zahlensuche_datum" datetime="1982-07-31">31.07.1982</time>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">32</div>
+      <time class="zahlensuche_datum" datetime="1982-08-07">07.08.1982</time>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zahl">49</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">33</div>
+      <time class="zahlensuche_datum" datetime="1982-08-14">14.08.1982</time>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">8</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">34</div>
+      <time class="zahlensuche_datum" datetime="1982-08-21">21.08.1982</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">35</div>
+      <time class="zahlensuche_datum" datetime="1982-08-28">28.08.1982</time>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">41</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">36</div>
+      <time class="zahlensuche_datum" datetime="1982-09-04">04.09.1982</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">37</div>
+      <time class="zahlensuche_datum" datetime="1982-09-11">11.09.1982</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">38</div>
+      <time class="zahlensuche_datum" datetime="1982-09-18">18.09.1982</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">7</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">48</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">39</div>
+      <time class="zahlensuche_datum" datetime="1982-09-25">25.09.1982</time>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zahl">48</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">40</div>
+      <time class="zahlensuche_datum" datetime="1982-10-02">02.10.1982</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">41</div>
+      <time class="zahlensuche_datum" datetime="1982-10-09">09.10.1982</time>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">42</div>
+      <time class="zahlensuche_datum" datetime="1982-10-16">16.10.1982</time>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">40</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">43</div>
+      <time class="zahlensuche_datum" datetime="1982-10-23">23.10.1982</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">15</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zahl">45</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">44</div>
+      <time class="zahlensuche_datum" datetime="1982-10-30">30.10.1982</time>
+      <div class="zahlensuche_zahl">9</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">45</div>
+      <time class="zahlensuche_datum" datetime="1982-11-06">06.11.1982</time>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">46</div>
+      <time class="zahlensuche_datum" datetime="1982-11-13">13.11.1982</time>
+      <div class="zahlensuche_zahl">9</div>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">47</div>
+      <time class="zahlensuche_datum" datetime="1982-11-20">20.11.1982</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">28</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">48</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">48</div>
+      <time class="zahlensuche_datum" datetime="1982-11-27">27.11.1982</time>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">45</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">49</div>
+      <time class="zahlensuche_datum" datetime="1982-12-04">04.12.1982</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">50</div>
+      <time class="zahlensuche_datum" datetime="1982-12-11">11.12.1982</time>
+      <div class="zahlensuche_zahl">15</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">33</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">51</div>
+      <time class="zahlensuche_datum" datetime="1982-12-18">18.12.1982</time>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">36</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">52</div>
+      <time class="zahlensuche_datum" datetime="1982-12-25">25.12.1982</time>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">44</div>
+      <div class="zahlensuche_zz"></div>
+   </div>
+</div>
