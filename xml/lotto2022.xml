@@ -996,4 +996,70 @@
       <div class="zahlensuche_zahl">49</div>
       <div class="zahlensuche_zz">5</div>
    </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">91</div>
+      <time class="zahlensuche_datum" datetime="2022-11-12">12.11.2022</time>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">7</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz">6</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">92</div>
+      <time class="zahlensuche_datum" datetime="2022-11-16">16.11.2022</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">9</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">35</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zz">8</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">93</div>
+      <time class="zahlensuche_datum" datetime="2022-11-19">19.11.2022</time>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">13</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zz">0</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">94</div>
+      <time class="zahlensuche_datum" datetime="2022-11-23">23.11.2022</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">22</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">49</div>
+      <div class="zahlensuche_zz">0</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">95</div>
+      <time class="zahlensuche_datum" datetime="2022-11-26">26.11.2022</time>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">48</div>
+      <div class="zahlensuche_zz">2</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">96</div>
+      <time class="zahlensuche_datum" datetime="2022-11-30">30.11.2022</time>
+      <div class="zahlensuche_zahl">1</div>
+      <div class="zahlensuche_zahl">2</div>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zahl">43</div>
+      <div class="zahlensuche_zz">8</div>
+   </div>
 </div>
