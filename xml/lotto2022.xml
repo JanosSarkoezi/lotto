@@ -1073,4 +1073,26 @@
       <div class="zahlensuche_zahl">45</div>
       <div class="zahlensuche_zz">7</div>
    </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">98</div>
+      <time class="zahlensuche_datum" datetime="2022-12-07">07.12.2022</time>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">16</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zahl">39</div>
+      <div class="zahlensuche_zz">8</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">99</div>
+      <time class="zahlensuche_datum" datetime="2022-12-10">10.12.2022</time>
+      <div class="zahlensuche_zahl">3</div>
+      <div class="zahlensuche_zahl">5</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">23</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zz">8</div>
+   </div>
 </div>
