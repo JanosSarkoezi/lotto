@@ -1095,4 +1095,15 @@
       <div class="zahlensuche_zahl">31</div>
       <div class="zahlensuche_zz">8</div>
    </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">100</div>
+      <time class="zahlensuche_datum" datetime="2022-12-14">14.12.2022</time>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">30</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">43</div>
+      <div class="zahlensuche_zahl">46</div>
+      <div class="zahlensuche_zahl">48</div>
+      <div class="zahlensuche_zz">3</div>
+   </div>
 </div>
