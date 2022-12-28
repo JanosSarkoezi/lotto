@@ -1139,4 +1139,15 @@
       <div class="zahlensuche_zahl">41</div>
       <div class="zahlensuche_zz">3</div>
    </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">104</div>
+      <time class="zahlensuche_datum" datetime="2022-12-28">28.12.2022</time>
+      <div class="zahlensuche_zahl">4</div>
+      <div class="zahlensuche_zahl">14</div>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">27</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zz">3</div>
+   </div>
 </div>
