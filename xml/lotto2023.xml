@@ -1,0 +1,42 @@
+<div id="gewinnzahlen">
+   <h2 id="lottozahlen-archiv">Archiv mit Ziehungen aus dem Jahr 2023</h2>
+   <div class="zahlensuche_rahmen_br">
+      <div class="zahlensuche_hinweis01">#</div>
+      <div class="zahlensuche_hinweis02">Datum</div>
+      <div class="zahlensuche_hinweis03">Gewinnzahlen</div>
+      <div class="zahlensuche_hinweis04">SZ</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">1</div>
+      <time class="zahlensuche_datum" datetime="2023-01-04">04.01.2023</time>
+      <div class="zahlensuche_zahl">19</div>
+      <div class="zahlensuche_zahl">29</div>
+      <div class="zahlensuche_zahl">31</div>
+      <div class="zahlensuche_zahl">34</div>
+      <div class="zahlensuche_zahl">37</div>
+      <div class="zahlensuche_zahl">47</div>
+      <div class="zahlensuche_zz">0</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">2</div>
+      <time class="zahlensuche_datum" datetime="2023-01-07">07.01.2023</time>
+      <div class="zahlensuche_zahl">10</div>
+      <div class="zahlensuche_zahl">11</div>
+      <div class="zahlensuche_zahl">18</div>
+      <div class="zahlensuche_zahl">20</div>
+      <div class="zahlensuche_zahl">26</div>
+      <div class="zahlensuche_zahl">40</div>
+      <div class="zahlensuche_zz">2</div>
+   </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">3</div>
+      <time class="zahlensuche_datum" datetime="2023-01-11">11.01.2023</time>
+      <div class="zahlensuche_zahl">17</div>
+      <div class="zahlensuche_zahl">21</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">25</div>
+      <div class="zahlensuche_zahl">32</div>
+      <div class="zahlensuche_zahl">48</div>
+      <div class="zahlensuche_zz">5</div>
+   </div>
+</div>
