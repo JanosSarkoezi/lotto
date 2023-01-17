@@ -39,4 +39,15 @@
       <div class="zahlensuche_zahl">48</div>
       <div class="zahlensuche_zz">5</div>
    </div>
+   <div class="zahlensuche_rahmen">
+      <div class="zahlensuche_nr">4</div>
+      <time class="zahlensuche_datum" datetime="2023-01-14">14.01.2023</time>
+      <div class="zahlensuche_zahl">6</div>
+      <div class="zahlensuche_zahl">12</div>
+      <div class="zahlensuche_zahl">24</div>
+      <div class="zahlensuche_zahl">38</div>
+      <div class="zahlensuche_zahl">42</div>
+      <div class="zahlensuche_zahl">43</div>
+      <div class="zahlensuche_zz">3</div>
+   </div>
 </div>
